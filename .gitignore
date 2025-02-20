@@ -5,11 +5,13 @@
 
 # Market Making Bot
 src/MMbot.py
+src/MMbot_fixed.py
 src/walletmanager.py
 bot_config.json
 profit_log.json
 trading_history/
 bot_logs/
+wallet_logs/
 
 # Python
 __pycache__/
@@ -78,3 +80,4 @@ image_processor.py
 # OS specific
 .DS_Store
 Thumbs.db 
+

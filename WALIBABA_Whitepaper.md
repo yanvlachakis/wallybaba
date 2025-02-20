@@ -6,13 +6,15 @@ Version 1.0
 ## Abstract
 So there was this kid, right? Born on a Wednesday, the most prophetic day, obviously. And this kid? Wally. He had retail foresight, the kind that transcends mere economics. Baba. Anyways, one day, under a triple rainbow—which, by the way, is super rare—he had a vision. And in this vision? A store, a market, a realm beyond realms. 
 
-This store? Poor Bubba, its called….
-Wallart Baby Marlata On Chain™  
+This store? Poor babasito, its called…
+## Wallart Baby Marlata On Chain™  
 
-Thus, WallyBaba was conceived. A Solana-based digital asset, engineered with an innovative tokenomics model, dynamic liquidity management, and community governance. It's a token built not just for transactions, but for a formidable marlata legacy (FML).
+Thus, WallyBaba was conceived. A Solana-based digital asset, engineered with an innovative tokenomics model, dynamic liquidity management, and community governance. It's a token built not just for transactions, but for a forever marlata legacy (FML).
 
 ## 1. Introduction
-Bubba, listen. This isn't your normal DeFi project. This is WallyBaba. Imagine baby gods that whisper stock tips and socks that hum show tunes when you step on tile floors. But in the crypto world? That's automated liquidity protection mechanisms and market-responsive controls. You think that's crazy? Wait 'til you hear about the governance model.
+baba, listen. This isn't your normal DeFi project. This is WallyBaba. Imagine baby gods that whisper stock tips and socks that hum show tunes when you step on tile floors. 
+
+But in the crypto world? That's automated liquidity protection mechanisms and market-responsive controls. You think that's crazy? Wait 'til you hear about the governance model.
 
 ### WallyBaba Key Features:
 - Triple Rainbow Secure Smart Contracts (Which means dynamic liquidity pooling with market-responsive algorithms)
@@ -30,7 +32,7 @@ Bubba, listen. This isn't your normal DeFi project. This is WallyBaba. Imagine b
 
 ### 2.2 Key Components
 1. Token Contract (wallybaba.sol)
-   - 99% initial distribution to liquidity, 1% to The Prophecy Team
+   - 98% initial distribution to liquidity, 2% to The Prophecy Team
    - Nine decimal places of precision, because every decimal holds power
    - Transaction rate limiting to protect against baby god hoarders
 
@@ -58,6 +60,7 @@ Listen, WallyBaba doesn't just drop tokens into the wild like some amateur magic
 - Next 120 days: 30% gradual release (approved by the baby gods)
 - Final ~2.5 years: 20% linear release (etched into the blockchain prophecy)
 
+
 ### Market-Responsive Controls
 - If liquidity falls below 50%, release rate increases (1.5x)
 - If liquidity surpasses 150%, release rate decreases (0.75x)
@@ -81,14 +84,18 @@ The whales? Oh, we are caring for them.
 | 0.5% - 1.0%               | 4%              |
 | > 1.0%                    | 5%              |
 
-- Transaction Cooldown System: You think you can dump? Try waiting 30 minutes, Bubba.
+- Transaction Cooldown System: You think you can dump? Try waiting 30 minutes, baba.
 - Max Sell Order: 0.75% of total liquidity. No dumping the whole magic burrito at once.
 
 ## 6. Conclusion
 So yeah, that's WallyBaba. A decentralized financial wonderland, a marketplace beyond the realms of normality, a protocol as whimsical as it is powerful. Invest, govern, and hold tight to your whispering baby gods—because this token economy isn't just built for today, it's engineered for cosmic eternity. And at the heart of it all? Wallart Baby Marlata, where finance meets prophecy.
 
 ## 7. Disclaimer
-This whitepaper is for entertainment, technological, and possibly metaphysical purposes. It does not constitute financial advice (unless whispered by the prophecy hats on Wednesdays). Cryptocurrency investments are volatile, just like socks that hum Broadway hits on tile floors. Invest wisely, Baba.
+This whitepaper is for entertainment, technological, and possibly metaphysical purposes. It does not constitute financial advice (unless whispered by the prophecy hats on Wednesdays). Cryptocurrency investments are volatile, just like socks that hum Broadway hits on tile floors. 
+
+For a comprehensive technical overview of the WallyBaba system, including detailed explanations of contract mechanics, tokenomics, and investor protections, please refer to our [Technical Whitepaper](WALIBABA_Technical_Whitepaper.md).
+
+By participating in the WallyBaba ecosystem, you acknowledge that you have read and understood both this creative whitepaper and the technical whitepaper, which together form the complete documentation of the project. Invest wisely, Baba.
 
 ---
 By Wallatoshi Babymoto  
